@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSQLUsers", "GetSQLUsers\GetSQLUsers.csproj", "{176E12FE-2175-4E19-95AF-7C81E6A10616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176E12FE-2175-4E19-95AF-7C81E6A10616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176E12FE-2175-4E19-95AF-7C81E6A10616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176E12FE-2175-4E19-95AF-7C81E6A10616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176E12FE-2175-4E19-95AF-7C81E6A10616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E5AC247-B02B-43BD-8205-DA6E7BCEF10E}
+	EndGlobalSection
+EndGlobal
